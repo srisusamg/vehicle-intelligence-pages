@@ -1,6 +1,6 @@
 {
-  "release_phase": "P04",
-  "deployment_timestamp": "2026-09-11T18:23:02.5011856Z",
-  "source_commit_sha": "118da7aec63721be71ed55894d009c265f71b611",
-  "data_snapshot_date": "2026-09-11"
+  "release_phase": "P05",
+  "deployment_timestamp": "2026-09-12T00:47:34Z",
+  "source_commit_sha": "eccb48c9528acf56e79f843a23b9c865af9ccf90",
+  "data_snapshot_date": "2026-09-12"
 }
